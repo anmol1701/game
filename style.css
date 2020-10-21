@@ -1,0 +1,58 @@
+body
+{
+  background-color: #4b586e;
+}
+.heading
+{
+  text-align: center;
+  font-size: 5rem;
+  font-family: 'Lobster', cursive;
+  margin-top: 20px;
+}
+.x
+{
+  height: 9rem;
+  width: 10em;
+  border-radius: 20%;
+  border-color: black;
+  border-width: thick;
+  margin-bottom: 30px;
+  margin-left: 30px;
+
+}
+.x1
+{
+  margin-left:480px;
+}
+#red
+{
+  background-color: red;
+}
+#yellow
+{
+  background-color: yellow;
+
+}
+#green
+{
+  background-color: green;
+}
+#pink
+{
+  background-color: pink;
+}
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+.end
+{
+    font-family: 'Lobster', cursive;
+    font-size: 2rem;
+    text-align: center;
+    margin-right: 500px;
+}
+.rule{
+  font-family:serif;
+  font size: 2rem;
+}
